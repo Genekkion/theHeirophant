@@ -1,0 +1,10 @@
+{
+    "url": "http://localhost:30303/echo",
+    "method": "GET",
+    "headers": [
+        {
+            "Content-Type": "application/json"
+        }
+    ],
+    "body": "{\"boo\": \"ya\"}"
+}
